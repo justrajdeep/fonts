@@ -10,3 +10,7 @@ $ fc-cache -f -v ~/.fonts
 $ fc-cache -f -v
 $ fc-match NonExistingFont                                     
 
+
+# License
+
+GPLv2+, just like Mercurial.
