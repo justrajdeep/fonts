@@ -13,3 +13,12 @@
 [submodule "nerd-fonts"]
 	path = nerd-fonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
+[submodule "monoid"]
+	path = monoid
+	url = https://github.com/larsenwork/monoid.git
+[submodule "cherry"]
+	path = cherry
+	url = https://github.com/turquoise-hexagon/cherry.git
+[submodule "Hack"]
+	path = Hack
+	url = https://github.com/source-foundry/Hack.git
