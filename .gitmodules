@@ -10,3 +10,6 @@
 [submodule "LispM-Font"]
 	path = LispM-Font
 	url = https://github.com/unjordy/LispM-Font.git
+[submodule "nerd-fonts"]
+	path = nerd-fonts
+	url = https://github.com/ryanoasis/nerd-fonts.git

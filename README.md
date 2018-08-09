@@ -12,6 +12,8 @@ copy the fonts to `~/.fonts` dir (if dir is not there create one)
     $ fc-match NonExistingFont                                     
 
 
+PS: The nerd-fonts submodule is really big
+
 # License
 
 GPLv2+, just like Mercurial.
