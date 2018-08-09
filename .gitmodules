@@ -7,3 +7,6 @@
 [submodule "mononoki"]
 	path = mononoki
 	url = https://github.com/madmalik/mononoki.git
+[submodule "LispM-Font"]
+	path = LispM-Font
+	url = https://github.com/unjordy/LispM-Font.git
