@@ -1,3 +1,6 @@
 [submodule "consolas-powerline"]
 	path = consolas-powerline
 	url = https://github.com/eugeneching/consolas-powerline-vim.git
+[submodule "fantasque-sans"]
+	path = fantasque-sans
+	url = https://github.com/belluzj/fantasque-sans.git
