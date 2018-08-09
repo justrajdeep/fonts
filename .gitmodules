@@ -4,3 +4,6 @@
 [submodule "fantasque-sans"]
 	path = fantasque-sans
 	url = https://github.com/belluzj/fantasque-sans.git
+[submodule "mononoki"]
+	path = mononoki
+	url = https://github.com/madmalik/mononoki.git
