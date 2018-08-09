@@ -9,7 +9,12 @@ copy the fonts to `~/.fonts` dir (if dir is not there create one)
     $ ttmkfdir -o fonts.dir
     $ fc-cache -f -v ~/.fonts
     $ fc-cache -f -v
-    $ fc-match NonExistingFont                                     
+    $ fc-match NonExistingFont   
+    
+You can confirm that the fonts are installed with the following command:
+   
+     $ fc-list | grep "Hack"
+
 
 
 PS: The nerd-fonts submodule is really big
