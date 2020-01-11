@@ -43,3 +43,13 @@
 	url = https://github.com/oswystan/code_font.git
 	branch = master
 	update = rebase
+[submodule "FiraCodeiScript"]
+	path = FiraCodeiScript
+	url = https://github.com/kencrocken/FiraCodeiScript
+	branch = master
+        update = rebase
+[submodule "icursive_nerd_font"]
+	path = icursive_nerd_font
+	url = https://github.com/sainnhe/icursive-nerd-font
+	branch = master
+        update = rebase
