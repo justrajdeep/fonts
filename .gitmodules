@@ -1,24 +1,45 @@
 [submodule "consolas-powerline"]
 	path = consolas-powerline
 	url = https://github.com/eugeneching/consolas-powerline-vim.git
+        branch = master
+        update = rebase
 [submodule "fantasque-sans"]
 	path = fantasque-sans
 	url = https://github.com/belluzj/fantasque-sans.git
+        branch = master
+        update = rebase
 [submodule "mononoki"]
 	path = mononoki
 	url = https://github.com/madmalik/mononoki.git
+        branch = master
+        update = rebase
 [submodule "LispM-Font"]
 	path = LispM-Font
 	url = https://github.com/unjordy/LispM-Font.git
+        branch = master
+        update = rebase
 [submodule "nerd-fonts"]
 	path = nerd-fonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
+        branch = master
+        update = rebase
 [submodule "monoid"]
 	path = monoid
 	url = https://github.com/larsenwork/monoid.git
+        branch = master
+        update = rebase
 [submodule "cherry"]
 	path = cherry
 	url = https://github.com/turquoise-hexagon/cherry.git
+        branch = master
+        update = rebase
 [submodule "Hack"]
 	path = Hack
 	url = https://github.com/source-foundry/Hack.git
+        branch = master
+        update = rebase
+[submodule "code_font"]
+	path = code_font
+	url = https://github.com/oswystan/code_font.git
+	branch = master
+	update = rebase
