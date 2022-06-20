@@ -53,3 +53,9 @@
 	url = https://github.com/sainnhe/icursive-nerd-font
 	branch = master
         update = rebase
+[submodule "comic-mono-font"]
+	path = comic-mono-font
+	url = https://github.com/dtinth/comic-mono-font.git
+[submodule "comic-shanns"]
+	path = comic-shanns
+	url = https://github.com/shannpersand/comic-shanns.git
